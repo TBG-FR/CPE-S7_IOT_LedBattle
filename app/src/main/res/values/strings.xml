@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LedBattle</string>
+    <string name="txt_player_one">Joueur 1</string>
+    <string name="txt_player_two">Joueur 2</string>
+    <string name="txt_play">Jouer !</string>
+    <string name="txt_ip">Adresse IP</string>
+    <string name="txt_port">Port</string>
+    <string name="txt_player_current">Vous êtes le joueur %1$d</string>
+    <string name="txt_sensor_value">Capteur : %1.2f</string>
+    <string name="txt_sensor_datetime">(%1$s)</string>
+    <string name="txt_received">Retour serveur : %1$s</string>
+    <string name="txt_playing_false">Jeu non lancé.</string>
+    <string name="txt_playing_true">Jeu en cours !</string>
+</resources>
